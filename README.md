@@ -1,0 +1,13 @@
+// create .env file in root directory on backend and use below variable
+
+PORT=
+CLOUDINARY_NAME=
+CLOUDINARY_API_KEY=
+CLOUDINARY_API_SECRET=
+EXPIRE_COOKIE=7
+MONGODB_URI=
+JWT_SECRET_KEY=
+JWT_EXPIRE=
+SMTP_SERVICE="gmail"
+SMTP_MAIL=
+SMTP_PASSWORD=
